@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start:parcel": "npx parcel index.html"
+    "start:parcel": "npx parcel index.html",
+    "start:db": "json-server -w db.json"
   },
   "author": "",
   "license": "ISC",
